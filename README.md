@@ -113,7 +113,7 @@ README.md → Project documentation
 🚀 How to Run the Project
 Step 1: Clone Repository
 
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/GopinathR07/House-Price-PredictionModel/tree/main
 
 Step 2: Navigate to Folder
 
